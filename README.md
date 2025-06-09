@@ -4,6 +4,7 @@ Smart Health Predictor - Streamlit Based Disease Prediciton System
 Project Title: Smart Health Predictor
 
 Project Description:
+
 Smart Health Predictor is an intelligent web/mobile-based system designed to assist users in understanding and managing their health by predicting potential diseases based on symptoms. Leveraging machine learning and data analytics, the system allows users to input various health symptoms and personal information (like age, gender, etc.), and it provides predictive insights about possible health conditions, along with suggested next steps.The primary objective of this project is to empower individuals with preliminary health assessments and encourage timely medical consultation. By utilizing a trained model on medical datasets, the system achieves high prediction accuracy and offers a user-friendly interface for both patients and healthcare providers.
 
 Key Features:
@@ -20,8 +21,8 @@ Technologies Used:
 Frontend: Streamlit
 Backend: Python
 Machine Learning: Scikit-learn, Pandas, NumPy
-Database: MySQL / MongoDB / Firebase
-Model: Decision Tree / Random Forest / Naive Bayes (or custom ML model)
+Database: Kaggle
+Model: Linear Regression / SVM (or custom ML model)
 Optional: Android app (Java/Kotlin), REST API, cloud deployment
 
 Use Cases:
